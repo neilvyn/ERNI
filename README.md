@@ -10,5 +10,7 @@
   - to show alert dialogs, loading view, etc from viewmodel
 + Newtonsoft.Json
   - to serialize and deserialize json objects
-+ Xam.Plugin.Connectivity
-  - data connection checking
++ Xamarin.Essentials
+  - for data connection checking
++ Xamarin.FFImageLoading
+  - to attain cicular view of the image
